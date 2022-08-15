@@ -1,0 +1,8 @@
+C:\Users\OLIVER\Downloads\mySmartWallet2022\mySmartWallet2022\obj\Debug\net6.0\Wallet2Plus022.csproj.AssemblyReference.cache
+C:\Users\OLIVER\Downloads\mySmartWallet2022\mySmartWallet2022\obj\Debug\net6.0\Wallet2Plus022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLIVER\Downloads\mySmartWallet2022\mySmartWallet2022\obj\Debug\net6.0\Wallet2Plus022.AssemblyInfoInputs.cache
+C:\Users\OLIVER\Downloads\mySmartWallet2022\mySmartWallet2022\obj\Debug\net6.0\Wallet2Plus022.AssemblyInfo.cs
+C:\Users\OLIVER\Downloads\mySmartWallet2022\mySmartWallet2022\obj\Debug\net6.0\Wallet2Plus022.csproj.CoreCompileInputs.cache
+C:\Users\OLIVER\Downloads\mySmartWallet2022\mySmartWallet2022\obj\Debug\net6.0\Wallet2Plus022.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OLIVER\Downloads\mySmartWallet2022\mySmartWallet2022\obj\Debug\net6.0\Wallet2Plus022.RazorAssemblyInfo.cache
+C:\Users\OLIVER\Downloads\mySmartWallet2022\mySmartWallet2022\obj\Debug\net6.0\Wallet2Plus022.RazorAssemblyInfo.cs
